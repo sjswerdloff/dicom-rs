@@ -90,7 +90,7 @@ optional = true
 features = ["static"]
 
 [dependencies.jxl-oxide]
-version = "0.10.2"
+version = "0.12.6"
 optional = true
 
 [dependencies.zune-jpegxl]
